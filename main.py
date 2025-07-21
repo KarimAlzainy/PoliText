@@ -2,7 +2,7 @@ from tkinter import *
 import clipboard
 import os
 
-geminiAPI = "AIzaSyAhE1VWG_Kp7FvsEH6t7bWngyV5CqVWQ8A" #Please insert your gemini API
+geminiAPI = "Please insert your gemini API"
 
 window = Tk()
 window.geometry("500x300")
